@@ -1,0 +1,2 @@
+namespace = "DataAccelerator"
+location = "westeurope"
